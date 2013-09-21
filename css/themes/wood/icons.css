@@ -1,0 +1,115 @@
+/*
+http://www.iconfinder.com/search/?q=iconset%3Awaxed
+*/
+.icon
+{
+    height: 115px;
+    width: 110px;
+    display: block;
+    background-color: transparent;
+    background-attachment: scroll;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    float: left;
+    padding-right: 10px;
+    opacity: 0.5;
+    -webkit-transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    text-decoration: none;
+    color: Black;
+    font-family:"Lucida Handwriting", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;    
+
+}
+
+
+
+.twitter
+{
+    background-image: url(icons/twitter.png);
+}
+
+.rss
+{
+    background-image: url(icons/rss.png);
+}
+
+.blog
+{
+    background-image: url(icons/blog.png);
+}
+
+.blog1
+{
+    background-image: url(icons/blog1.png);
+}
+.blog2
+{
+    background-image: url(icons/blog2.png);
+}
+.blog3
+{
+    background-image: url(icons/blog3.png);
+}
+.blog4
+{
+    background-image: url(icons/blog4.png);
+}
+.blog5
+{
+    background-image: url(icons/blog5.png);
+}
+.blog6
+{
+    background-image: url(icons/blog6.png);
+}
+
+.mail
+{
+    background-image: url(icons/mail.png);
+}
+
+.linkedin
+{
+    background-image: url(icons/linkedin.png);
+}
+
+
+.facebook
+{
+    background-image: url(icons/facebook.png);
+}
+
+.flickr
+{
+    background-image: url(icons/flickr.png);
+}
+
+.mercurial
+{
+    background-image: url(icons/mercurial.png);
+}
+
+.github
+{
+    background-image: url(icons/github.png);
+}
+
+.code
+{
+    background-image: url(icons/code.png);
+}
+
+.linkedin
+{
+    background-image: url(icons/linkedin.png);
+}
+
+.msn
+{
+    background-image: url(icons/msn.png);
+}
+.orchardCMS
+{
+    background-image: url(icons/orchardCMS.png);
+}
